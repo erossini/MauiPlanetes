@@ -1,1 +1,1 @@
-# MauiPlanetes
+# MAUI Planetes
